@@ -1,0 +1,15 @@
+C:\Users\Krostoffer\source\repos\VariousSmallProjects\VariousSmallProjectsUI\bin\Debug\net7.0\VariousSmallProjectsUI.exe
+C:\Users\Krostoffer\source\repos\VariousSmallProjects\VariousSmallProjectsUI\bin\Debug\net7.0\VariousSmallProjectsUI.deps.json
+C:\Users\Krostoffer\source\repos\VariousSmallProjects\VariousSmallProjectsUI\bin\Debug\net7.0\VariousSmallProjectsUI.runtimeconfig.json
+C:\Users\Krostoffer\source\repos\VariousSmallProjects\VariousSmallProjectsUI\bin\Debug\net7.0\VariousSmallProjectsUI.dll
+C:\Users\Krostoffer\source\repos\VariousSmallProjects\VariousSmallProjectsUI\bin\Debug\net7.0\VariousSmallProjectsUI.pdb
+C:\Users\Krostoffer\source\repos\VariousSmallProjects\VariousSmallProjectsUI\obj\Debug\net7.0\VariousSmallProjectsUI.csproj.AssemblyReference.cache
+C:\Users\Krostoffer\source\repos\VariousSmallProjects\VariousSmallProjectsUI\obj\Debug\net7.0\VariousSmallProjectsUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krostoffer\source\repos\VariousSmallProjects\VariousSmallProjectsUI\obj\Debug\net7.0\VariousSmallProjectsUI.AssemblyInfoInputs.cache
+C:\Users\Krostoffer\source\repos\VariousSmallProjects\VariousSmallProjectsUI\obj\Debug\net7.0\VariousSmallProjectsUI.AssemblyInfo.cs
+C:\Users\Krostoffer\source\repos\VariousSmallProjects\VariousSmallProjectsUI\obj\Debug\net7.0\VariousSmallProjectsUI.csproj.CoreCompileInputs.cache
+C:\Users\Krostoffer\source\repos\VariousSmallProjects\VariousSmallProjectsUI\obj\Debug\net7.0\VariousSmallProjectsUI.dll
+C:\Users\Krostoffer\source\repos\VariousSmallProjects\VariousSmallProjectsUI\obj\Debug\net7.0\refint\VariousSmallProjectsUI.dll
+C:\Users\Krostoffer\source\repos\VariousSmallProjects\VariousSmallProjectsUI\obj\Debug\net7.0\VariousSmallProjectsUI.pdb
+C:\Users\Krostoffer\source\repos\VariousSmallProjects\VariousSmallProjectsUI\obj\Debug\net7.0\VariousSmallProjectsUI.genruntimeconfig.cache
+C:\Users\Krostoffer\source\repos\VariousSmallProjects\VariousSmallProjectsUI\obj\Debug\net7.0\ref\VariousSmallProjectsUI.dll

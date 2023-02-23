@@ -1,0 +1,15 @@
+C:\Users\Krostoffer\source\repos\VariousSmallProjects\RetirementCalculator\bin\Debug\net7.0\RetirementCalculator.exe
+C:\Users\Krostoffer\source\repos\VariousSmallProjects\RetirementCalculator\bin\Debug\net7.0\RetirementCalculator.deps.json
+C:\Users\Krostoffer\source\repos\VariousSmallProjects\RetirementCalculator\bin\Debug\net7.0\RetirementCalculator.runtimeconfig.json
+C:\Users\Krostoffer\source\repos\VariousSmallProjects\RetirementCalculator\bin\Debug\net7.0\RetirementCalculator.dll
+C:\Users\Krostoffer\source\repos\VariousSmallProjects\RetirementCalculator\bin\Debug\net7.0\RetirementCalculator.pdb
+C:\Users\Krostoffer\source\repos\VariousSmallProjects\RetirementCalculator\obj\Debug\net7.0\RetirementCalculator.csproj.AssemblyReference.cache
+C:\Users\Krostoffer\source\repos\VariousSmallProjects\RetirementCalculator\obj\Debug\net7.0\RetirementCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krostoffer\source\repos\VariousSmallProjects\RetirementCalculator\obj\Debug\net7.0\RetirementCalculator.AssemblyInfoInputs.cache
+C:\Users\Krostoffer\source\repos\VariousSmallProjects\RetirementCalculator\obj\Debug\net7.0\RetirementCalculator.AssemblyInfo.cs
+C:\Users\Krostoffer\source\repos\VariousSmallProjects\RetirementCalculator\obj\Debug\net7.0\RetirementCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Krostoffer\source\repos\VariousSmallProjects\RetirementCalculator\obj\Debug\net7.0\RetirementCalculator.dll
+C:\Users\Krostoffer\source\repos\VariousSmallProjects\RetirementCalculator\obj\Debug\net7.0\refint\RetirementCalculator.dll
+C:\Users\Krostoffer\source\repos\VariousSmallProjects\RetirementCalculator\obj\Debug\net7.0\RetirementCalculator.pdb
+C:\Users\Krostoffer\source\repos\VariousSmallProjects\RetirementCalculator\obj\Debug\net7.0\RetirementCalculator.genruntimeconfig.cache
+C:\Users\Krostoffer\source\repos\VariousSmallProjects\RetirementCalculator\obj\Debug\net7.0\ref\RetirementCalculator.dll
