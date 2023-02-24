@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Krostoffer\\source\\repos\\VariousSmallProjects\\VariousSmallProjectsUI\\VariousSmallProjectsUI.csproj",
+      "projectUniqueName": "C:\\Users\\Krostoffer\\Source\\Repos\\SmallProjects\\VariousSmallProjectsUI\\VariousSmallProjectsUI.csproj",
       "projectName": "VariousSmallProjectsUI",
-      "projectPath": "C:\\Users\\Krostoffer\\source\\repos\\VariousSmallProjects\\VariousSmallProjectsUI\\VariousSmallProjectsUI.csproj",
+      "projectPath": "C:\\Users\\Krostoffer\\Source\\Repos\\SmallProjects\\VariousSmallProjectsUI\\VariousSmallProjectsUI.csproj",
       "packagesPath": "C:\\Users\\Krostoffer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Krostoffer\\source\\repos\\VariousSmallProjects\\VariousSmallProjectsUI\\obj\\",
+      "outputPath": "C:\\Users\\Krostoffer\\Source\\Repos\\SmallProjects\\VariousSmallProjectsUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Krostoffer\\AppData\\Roaming\\NuGet\\NuGet.Config",

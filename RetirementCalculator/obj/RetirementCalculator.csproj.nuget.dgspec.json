@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Krostoffer\\source\\repos\\VariousSmallProjects\\RetirementCalculator\\RetirementCalculator.csproj": {}
+    "C:\\Users\\Krostoffer\\source\\repos\\SmallProjects\\RetirementCalculator\\RetirementCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Krostoffer\\source\\repos\\VariousSmallProjects\\RetirementCalculator\\RetirementCalculator.csproj": {
+    "C:\\Users\\Krostoffer\\source\\repos\\SmallProjects\\RetirementCalculator\\RetirementCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Krostoffer\\source\\repos\\VariousSmallProjects\\RetirementCalculator\\RetirementCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\Krostoffer\\source\\repos\\SmallProjects\\RetirementCalculator\\RetirementCalculator.csproj",
         "projectName": "RetirementCalculator",
-        "projectPath": "C:\\Users\\Krostoffer\\source\\repos\\VariousSmallProjects\\RetirementCalculator\\RetirementCalculator.csproj",
+        "projectPath": "C:\\Users\\Krostoffer\\source\\repos\\SmallProjects\\RetirementCalculator\\RetirementCalculator.csproj",
         "packagesPath": "C:\\Users\\Krostoffer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Krostoffer\\source\\repos\\VariousSmallProjects\\RetirementCalculator\\obj\\",
+        "outputPath": "C:\\Users\\Krostoffer\\Source\\Repos\\SmallProjects\\RetirementCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Krostoffer\\AppData\\Roaming\\NuGet\\NuGet.Config",
