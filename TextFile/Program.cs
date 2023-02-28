@@ -6,7 +6,7 @@ LoadListFromFile();
 
 void LoadListFromFile()
 {
-    string[] lines = File.ReadAllLines("Data/StandardDataSet.csv");
+    string[] lines = File.ReadAllLines("C:\\Users\\Krostoffer\\source\\repos\\SmallProjects\\TextFile\\Data\\StandardDataSet.csv");
 }
 
 Console.ReadLine();

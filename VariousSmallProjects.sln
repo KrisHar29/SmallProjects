@@ -4,6 +4,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariousSmallProjectsUI", "VariousSmallProjectsUI\VariousSmallProjectsUI.csproj", "{205EDA77-0339-4E9A-903B-DAF3A2F12310}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3D3D2D8F-EFFC-490A-A0F5-BC7B01272AD2} = {3D3D2D8F-EFFC-490A-A0F5-BC7B01272AD2}
+		{699C1A08-E788-420C-A791-A65083C31F93} = {699C1A08-E788-420C-A791-A65083C31F93}
+		{81DA7A3D-80B8-4B2C-A783-B5F4319E0F38} = {81DA7A3D-80B8-4B2C-A783-B5F4319E0F38}
+		{8A0B0B71-5123-4C01-BC27-37FEC782C0B3} = {8A0B0B71-5123-4C01-BC27-37FEC782C0B3}
+		{D00E2E0C-593D-4C4C-A929-F528FAF233B9} = {D00E2E0C-593D-4C4C-A929-F528FAF233B9}
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RetirementCalculator", "RetirementCalculator\RetirementCalculator.csproj", "{3D3D2D8F-EFFC-490A-A0F5-BC7B01272AD2}"
 EndProject
@@ -13,7 +20,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parameter", "Parameter\Parameter.csproj", "{8A0B0B71-5123-4C01-BC27-37FEC782C0B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFile", "TextFile\TextFile.csproj", "{1DC7E30B-E2EF-4C6A-B501-F94938F72370}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoConsole", "ToDoConsole\ToDoConsole.csproj", "{D00E2E0C-593D-4C4C-A929-F528FAF233B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,10 +48,10 @@ Global
 		{8A0B0B71-5123-4C01-BC27-37FEC782C0B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A0B0B71-5123-4C01-BC27-37FEC782C0B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A0B0B71-5123-4C01-BC27-37FEC782C0B3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1DC7E30B-E2EF-4C6A-B501-F94938F72370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1DC7E30B-E2EF-4C6A-B501-F94938F72370}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1DC7E30B-E2EF-4C6A-B501-F94938F72370}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1DC7E30B-E2EF-4C6A-B501-F94938F72370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D00E2E0C-593D-4C4C-A929-F528FAF233B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D00E2E0C-593D-4C4C-A929-F528FAF233B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D00E2E0C-593D-4C4C-A929-F528FAF233B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D00E2E0C-593D-4C4C-A929-F528FAF233B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
